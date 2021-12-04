@@ -12,7 +12,7 @@
 
  $ npm install
  
- $  npm install
+ $ npm install
 
  $ npm start
 
