@@ -3,7 +3,7 @@
 
 ## Some of technoligies used
 - React Hooks
-- -Material UI Icons
+- Material UI Icons
 
 
 ## Usage
