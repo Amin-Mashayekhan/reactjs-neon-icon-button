@@ -1,20 +1,22 @@
 # Neon icon button
 
-## Some of technologies used
+
+## Some of technoligies used
 - React Hooks
-- Material UI Icons
+- -Material UI Icons
+
 
 ## Usage
 ```bash
 # Install dependencies
 
  $ npm install
-
-# Start webpack-dev-server at port 8080
+ 
+ $  npm install
 
  $ npm start
 
-# Build app for production (gets output in the 'dist' directory)
+# Build app for production (gets output in the 'dist' directory
 
  $ npm run build
 ```
